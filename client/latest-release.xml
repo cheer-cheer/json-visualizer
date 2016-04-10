@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<latest-release version="1.0.0.0" stage="RC" releaseDate="1460252256" download="http://cheer-cheer.github.com/">
+  <news href="http://cheer-cheer.github.com/">
+    <entry summary="ADDED_COPY_AS_FEATURE" />
+    <entry summary="Added Copy As Feature." />
+    <entry summary="Added Copy As Feature." />
+  </news>
+  <resources>
+    <resource culture="en-US" default="true">
+      <string key="ADDED_COPY_AS_FEATURE" value="Added 'Copy As' Feature." />
+      <string key="" value="" />
+      <string key="" value="" />
+    </resource>
+    <resource culture="zh-Hans">
+      <string key="ADDED_COPY_AS_FEATURE" value="新增“复制为”特性。" />
+      <string key="" value="" />
+      <string key="" value="" />
+    </resource>
+  </resources>
+</latest-release>
+
