@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheer.JsonVisualizer", "Cheer.JsonVisualizer\Cheer.JsonVisualizer.csproj", "{5F143146-E636-4893-986C-5D2F0FFC5A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheer.JsonVisualizer.Localization", "Cheer.JsonVisualizer.Localization\Cheer.JsonVisualizer.Localization.csproj", "{D7675D02-7BD6-4440-9056-80266EEB427E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheer.JsonVisualizer.CoreServices", "Cheer.JsonVisualizer.CoreServices\Cheer.JsonVisualizer.CoreServices.csproj", "{3C2D58FF-CE15-44DB-B1F3-96CABA65780F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheer.JsonVisualizer.UnitTests", "Cheer.JsonVisualizer.UnitTests\Cheer.JsonVisualizer.UnitTests.csproj", "{67ACF780-7C9F-4A53-865D-8FB3B2387982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheer.JsonVisualizer.UpdateUtil", "Cheer.JsonVisualizer.UpdateUtil\Cheer.JsonVisualizer.UpdateUtil.csproj", "{5D0A87F0-90C6-4D6B-B0DF-6A53B4E3DD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F143146-E636-4893-986C-5D2F0FFC5A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F143146-E636-4893-986C-5D2F0FFC5A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F143146-E636-4893-986C-5D2F0FFC5A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F143146-E636-4893-986C-5D2F0FFC5A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7675D02-7BD6-4440-9056-80266EEB427E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7675D02-7BD6-4440-9056-80266EEB427E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7675D02-7BD6-4440-9056-80266EEB427E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7675D02-7BD6-4440-9056-80266EEB427E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2D58FF-CE15-44DB-B1F3-96CABA65780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2D58FF-CE15-44DB-B1F3-96CABA65780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2D58FF-CE15-44DB-B1F3-96CABA65780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2D58FF-CE15-44DB-B1F3-96CABA65780F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67ACF780-7C9F-4A53-865D-8FB3B2387982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67ACF780-7C9F-4A53-865D-8FB3B2387982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67ACF780-7C9F-4A53-865D-8FB3B2387982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67ACF780-7C9F-4A53-865D-8FB3B2387982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0A87F0-90C6-4D6B-B0DF-6A53B4E3DD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0A87F0-90C6-4D6B-B0DF-6A53B4E3DD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0A87F0-90C6-4D6B-B0DF-6A53B4E3DD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0A87F0-90C6-4D6B-B0DF-6A53B4E3DD59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
