@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <latest-release version="1.0.0.0" stage="RC" releaseDate="1460252256" download="http://cheer-cheer.github.com/">
   <news href="http://cheer-cheer.github.com/">
-    <entry summary="ADDED_COPY_AS_FEATURE" />
-    <entry summary="Added Copy As Feature." />
-    <entry summary="Added Copy As Feature." />
+    <summary resource="ADDED_COPY_AS_FEATURE" />
+    <summary resource="Added Copy As Feature." />
+    <summary resource="Added Copy As Feature." />
   </news>
   <resources>
     <resource culture="en-US" default="true">
